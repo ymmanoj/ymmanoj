@@ -21,6 +21,17 @@ I'm focused on building practical projects that combine business knowledge with 
 
 ---
 
+## 🏆 Recognition & Awards
+
+Recognized for consistent performance, quality, process expertise, and contribution to business operations:
+
+* 🥇 **Gold Coin Award — 2024**
+* ⭐ **Manager's Spotlight Award**
+* 🏅 **Top Performer — 3 Consecutive Months**
+* 🪶 **First Feather Cap Award**
+* 💡 **Skill-Based Pay Award — 2026**
+
+
 ## 🛠️ Technical Skills
 
 ### Programming & Data
