@@ -1,23 +1,30 @@
 # Hi, I'm Manoj 👋
 
-### Finance & Operations Professional → Data Science
+### Finance & Operations Professional | QA • Data Analytics • Automation • AI/ML
 
-I have a background in **finance, banking operations, risk & compliance, and process optimization**, and I'm transitioning into **Data Analytics and Data Science**.
+I am a **finance and banking operations professional with 5+ years of experience** in transaction monitoring, reconciliation, financial investigations, quality assurance, risk & compliance, root-cause analysis, and process optimization.
 
-I'm focused on building practical projects that combine business knowledge with technology — particularly **data analysis, automation, dashboards, and machine learning**.
+Alongside my professional experience, I am building strong technical capabilities in **Python, SQL, Power BI, Excel, automation, machine learning, AI, and software development**.
+
+My focus is on combining **business domain knowledge + quality mindset + data + technology** to solve practical business problems.
 
 ---
 
-## 🧑‍💻 About Me
+## 💼 Professional Experience
 
-* 💼 Finance & Operations professional with 5+ years of experience
-* 📊 Transitioning into Data Analytics & Data Science
-* 🐍 Learning and building with Python
-* 🗄️ Working with SQL and databases
-* 📈 Building dashboards with Power BI and Excel
-* 🤖 Exploring Machine Learning and AI
-* ⚙️ Interested in business process automation
-* 🚀 Building practical portfolio projects
+### Banking Operations | Risk, Quality & Process Optimization
+
+Over 5+ years of professional experience working in banking operations and business processes, with hands-on exposure to:
+
+* 🔎 **Transaction Monitoring** — reviewing and analyzing financial transactions, identifying exceptions, and supporting issue resolution
+* 🔄 **Reconciliation** — investigating transaction breaks, discrepancies, and exceptions and supporting timely resolution
+* 🧪 **Quality Assurance** — performing quality checks, identifying process gaps, and maintaining accuracy and process adherence
+* 🕵️ **Financial Investigations** — analyzing transaction-related issues and gathering information required for resolution
+* 🛡️ **Risk & Compliance** — working within operational controls, procedures, and compliance requirements
+* 🔬 **Root Cause Analysis (RCA)** — identifying underlying causes of recurring issues and supporting corrective actions
+* ⚙️ **Process Optimization** — identifying opportunities to improve efficiency, accuracy, and operational processes
+* 📊 **Reporting & Analysis** — analyzing operational information to identify trends, exceptions, and performance indicators
+* 🤝 **Stakeholder & Team Collaboration** — coordinating with relevant teams to investigate and resolve operational issues
 
 ---
 
@@ -28,94 +35,159 @@ Recognized for consistent performance, quality, process expertise, and contribut
 * 🥇 **Gold Coin Award — 2024**
 * ⭐ **Manager's Spotlight Award**
 * 🏅 **Top Performer — 3 Consecutive Months**
-* 🪶 **First Feather Cap Award**
+* 🪶 **First Feather Cap Award — 2×**
 * 💡 **Skill-Based Pay Award — 2026**
-
-
-## 🛠️ Technical Skills
-
-### Programming & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### Analytics & BI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
-### Development & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Project
 
-### 📊 Sales Automation & Dashboard
+### Rolvance — AI-Powered Resume & Career Platform
 
-Automated sales analysis using Python, Pandas, Matplotlib and OpenPyXL.
+A full-stack SaaS platform I designed and developed to help users create resumes, tailor them to job descriptions, generate portfolios, and improve ATS compatibility.
+
+**Technology:** React • Vite • Node.js • Express • MongoDB • AI APIs • Cloudinary • Vercel • Render
 
 **Highlights:**
 
-* Data cleaning and null-value handling
-* KPI calculation
-* Monthly sales trend analysis
-* Category and regional analysis
-* Automated Excel report generation
-* Dashboard with business KPIs and visualizations
+* Resume creation and customization
+* Job Description → Resume workflow
+* ATS-oriented resume analysis
+* AI-powered content generation
+* Portfolio generation
+* API integrations
+* Full-stack application architecture
+* Cloud deployment
 
-🔗 [View Project](https://github.com/ymmanoj/Sales-Automation-Project)
+🔗 **Live Product:** [rolvance.in](https://rolvance.in)
 
 ---
 
-### 🌐 Portfolio
+## 📊 Data & Automation Projects
 
-My personal portfolio and projects:
+### Sales Automation & Dashboard
 
-🔗 [View Portfolio](https://github.com/ymmanoj/ymkportfolio)
+An automated e-commerce sales analysis and reporting solution built with Python.
+
+**Technology:** Python • Pandas • Matplotlib • OpenPyXL • Excel
+
+**Highlights:**
+
+* Automated data processing
+* Data cleaning and validation
+* KPI calculation
+* Monthly revenue analysis
+* Category and regional sales analysis
+* Automated chart generation
+* Excel dashboard generation
+* Repeatable reporting workflow
+
+🔗 **View Project:** [Sales-Automation-Project](https://github.com/ymmanoj/Sales-Automation-Project)
+
+---
+
+## 🧪 QA & Automation
+
+My professional experience in quality assurance and process operations is complemented by an interest in building technology-driven testing and automation solutions.
+
+Areas of interest include:
+
+* Test case design
+* Functional testing
+* Process validation
+* Root cause analysis
+* Defect identification
+* Test automation
+* API testing
+* Automated QA reporting
+* AI-assisted testing
+
+---
+
+## 🛠️ Technical Skills
+
+### 🐍 Programming & Data
+
+**Python** • **Pandas** • **NumPy** • **SQL**
+
+### 📈 Analytics & Business Intelligence
+
+**Power BI** • **Excel** • **Tableau** • **DAX** • **Matplotlib**
+
+### 🗄️ Databases
+
+**MySQL** • **PostgreSQL** • **MongoDB**
+
+### 🧪 QA & Process
+
+**Manual Testing** • **Test Case Design** • **Quality Assurance** • **Root Cause Analysis** • **Process Optimization** • **Transaction Monitoring** • **Reconciliation**
+
+### ⚙️ Automation & Development
+
+**Git** • **GitHub** • **Jupyter Notebook** • **VBA** • **REST APIs**
+
+### 🌐 Full-Stack & Cloud
+
+**React** • **Vite** • **Node.js** • **Express** • **Cloudinary** • **Vercel** • **Render**
+
+### 🤖 AI & Machine Learning
+
+**Machine Learning** • **Generative AI** • **AI APIs** • **Prompt Engineering**
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-Python
-  ↓
-SQL
-  ↓
-Data Analytics
-  ↓
-Power BI
-  ↓
+Professional Experience
+        ↓
+QA • Risk • Operations • RCA
+        ↓
+Process Optimization
+        ↓
+Python • SQL • Power BI
+        ↓
+Automation
+        ↓
 Machine Learning
-  ↓
-Data Science
+        ↓
+AI & Intelligent Applications
 ```
 
-I'm currently focused on building **real-world, business-oriented projects** rather than only completing tutorials.
+I am focused on building **real-world, business-oriented projects** that combine my professional experience with modern technology.
 
 ---
 
-## 📈 GitHub Activity
+## 📚 What I'm Building
 
-I'm continuously building and improving projects as I transition deeper into Data Science and Analytics.
+* 📊 Data Analytics & Business Intelligence projects
+* 🧪 QA and testing automation solutions
+* ⚙️ Business process automation
+* 🤖 Machine Learning projects
+* 🧠 AI-powered applications
+* 📈 Power BI dashboards
+* 🌐 Full-stack applications
+
+---
+
+## 🌐 Portfolio
+
+Explore my projects and work:
+
+🔗 **[ymkportfolio](https://github.com/ymmanoj/ymkportfolio)**
 
 ---
 
 ## 📫 Connect With Me
 
-🐙 GitHub: [@ymmanoj](https://github.com/ymmanoj)
+🐙 **GitHub:** [@ymmanoj](https://github.com/ymmanoj)
 
-💼 LinkedIn: [Manoj YMK](https://www.linkedin.com/in/manoj-ymk-4188b1296/)
+💼 **LinkedIn:** [Manoj YMK](https://www.linkedin.com/in/manoj-ymk-4188b1296/)
 
-🌐 Portfolio: [ymkportfolio](https://github.com/ymmanoj/ymkportfolio)
-
+🌐 **Portfolio:** [ymkportfolio](https://github.com/ymmanoj/ymkportfolio)
 
 ---
 
-⭐ If you find any of my projects useful, feel free to explore the repository and leave feedback.
+### 💡 Building at the intersection of Business, Quality, Data & Technology.
+
+⭐ Feel free to explore my repositories and follow my journey.
