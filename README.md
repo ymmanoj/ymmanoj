@@ -98,9 +98,12 @@ I'm continuously building and improving projects as I transition deeper into Dat
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Manoj Kumar](https://www.linkedin.com/)
-* 🌐 Portfolio: [ymkportfolio](https://github.com/ymmanoj/ymkportfolio)
-* 🐙 GitHub: [@ymmanoj](https://github.com/ymmanoj)
+🐙 GitHub: [@ymmanoj](https://github.com/ymmanoj)
+
+💼 LinkedIn: [Manoj YMK](https://www.linkedin.com/in/manoj-ymk-4188b1296/)
+
+🌐 Portfolio: [ymkportfolio](https://github.com/ymmanoj/ymkportfolio)
+
 
 ---
 
